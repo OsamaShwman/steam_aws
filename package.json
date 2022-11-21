@@ -45,6 +45,7 @@
   "homepage": "https://github.com/llk/scratch-www#readme",
   "dependencies": {
     "@sentry/browser": "4.4.2",
+    "all": "^0.0.0",
     "bunyan": "1.8.15",
     "clipboard-copy": "2.0.1",
     "express": "4.16.1",
